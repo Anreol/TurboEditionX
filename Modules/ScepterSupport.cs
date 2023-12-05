@@ -8,7 +8,7 @@ using UnityEngine;
 
 namespace TurboEditionX.Modules
 {
-    internal class ScepterSupport
+    /*internal class ScepterSupport
     {
         public static void Enable()
         {
@@ -19,5 +19,5 @@ namespace TurboEditionX.Modules
             }
             AncientScepter.AncientScepterItem.instance.RegisterScepterSkill(TurboEdition.Assets.mainAssetBundle.LoadAsset<SkillDef>("todo1"), "GrenadierBody", TurboEdition.Assets.mainAssetBundle.LoadAsset<SkillDef>("todo2"));
         }
-    }
+    }*/
 }

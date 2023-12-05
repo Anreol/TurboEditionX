@@ -40,7 +40,7 @@ namespace TurboEditionX
             }
             if (BepInEx.Bootstrap.Chainloader.PluginInfos.ContainsKey(AncientScepter.AncientScepterMain.ModGuid))
             {
-                ScepterSupport.Enable();
+                //ScepterSupport.Enable();
             }
         }
     }

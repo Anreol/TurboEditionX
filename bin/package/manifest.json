@@ -1,0 +1,9 @@
+﻿{
+	"name": "TurboEditionX",
+	"version_number": "0.0.1",
+	"website_url": "https://github.com/Anreol/TurboEditionx",
+	"description": "eXtra mod eXtension to Turbo Edition with other mods X-Compatibility. No purpose without it.",
+	"dependencies": [
+        "Anreol-TurboEdition-0.1.7"
+	]
+}
